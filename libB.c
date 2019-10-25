@@ -1,6 +1,6 @@
 /*
 libB.c
-Written by, Sohail Qayum Malik[sqm@hackers.pk]
+Written by, Sohail Qayum Malik
 */
 
 #include "dnsCli.h"

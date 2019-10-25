@@ -1,6 +1,6 @@
 /* 
 dnsCli.c,
-written by, Sohail Qayum Malik[sqm@hackers.pk]
+written by, Sohail Qayum Malik
 */     
    
 #include <stdio.h>

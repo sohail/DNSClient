@@ -1,5 +1,5 @@
 #Makefile for dnsCli.
-#Written by, Sohail Qayum Malik[sqm@hackers.pk]
+#Written by, Sohail Qayum Malik
 
 .PHONY		: clean	help 	
 .DEFAULT	: all
