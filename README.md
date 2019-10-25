@@ -1,6 +1,6 @@
 ﻿# DNS client  
 
-I've written this client to understand the working of DNS potocol. As a client side implementation it was an easy protocol to work with. I've tried to implement many(if not all) RR(resource record) requests. You can use this client to study the DNS protocol or to test the configuration of DNS servers(BIND).  
+I've written this client to understand the working of DNS potocol. I wrote this tool while reading chapter on DNS protocol from book [TCP/IP Illustrated First Edition by, ](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)[W. Richard Stevens](https://en.wikipedia.org/wiki/W._Richard_Stevens). As a client side implementation it was an easy protocol to work with. I've tried to implement many(if not all) RR(resource record) requests. You can use this client to study the DNS protocol or to test the configuration of DNS servers(BIND).  
   
 - The opcodes implemented in this version.  
 Query  
